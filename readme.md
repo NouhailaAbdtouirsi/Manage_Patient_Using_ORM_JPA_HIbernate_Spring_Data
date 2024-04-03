@@ -59,12 +59,12 @@
 - RendezVousRepository : 
 <img src="Capture/capture11.png" alt="RDV">
 7. Tester quelques opérations de gestion de patients :
-    - Ajouter des patients
-    - Ajouter des medecins
-    - Consulter un patient par son id
-    - Consulter un patient par son nom
-    - Consulter un medecin par son nom
-    - Creer un rendez-vous
-    - Lister un rdv(le premier)
-    - Creer une consultation
+    - Ajouter des patients <br>
+    - Ajouter des medecins <br>
+    - Consulter un patient par son id <br>
+    - Consulter un patient par son nom <br>
+    - Consulter un medecin par son nom <br>
+    - Creer un rendez-vous <br>
+    - Lister un rdv(le premier) <br>
+    - Creer une consultation <br>
 <img src="Capture/capture12.png" alt="ProductRepository">
